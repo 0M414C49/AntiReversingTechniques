@@ -5,6 +5,6 @@ This is research project in the area of anti-reversing techniques that malisous 
 
 # Resources (Research under progress)
 
-##[The Ultimate Anti-Reversing Reference](https://anti-reversing.com/Downloads/Anti-Reversing/The_Ultimate_Anti-Reversing_Reference.pdf)
+## [The Ultimate Anti-Reversing Reference](https://anti-reversing.com/Downloads/Anti-Reversing/The_Ultimate_Anti-Reversing_Reference.pdf)
 
-##[Practical Malware Analysis Book](https://nostarch.com/malware)
+## [Practical Malware Analysis Book](https://nostarch.com/malware)
